@@ -1,0 +1,37 @@
+*[role="form"] {
+  max-width: 500px;
+  padding-top:40px;
+  margin: 0 auto;
+
+}
+
+
+
+h5{	
+   padding-top:-100px;
+   padding-left:405px;
+   color:green;
+   margin-left: 1em;
+   margin-bottom: 1em;
+}
+
+*[role="form"] h4 {
+  margin-left: 2em;
+  padding-top: 
+}
+
+#graph1 {
+	position:relative;
+	top:-475px;
+	left:462px;
+}
+
+#graph2 {
+	position:relative;
+	top:-180px;
+	left:460px;
+}
+
+#panel{
+	padding-left:15px;
+}

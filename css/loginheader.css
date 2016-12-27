@@ -1,0 +1,60 @@
+li #imaginary_container{
+	position:relative;
+	top:50px;
+    margin-top:-40px;
+	margin-left:30px;
+	width:80%;
+	
+}
+
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+	
+}
+.input-group-addon{
+	width:30%;
+}
+
+ 
+ #acc4 {
+	 font-size:14px;
+	 color:white;
+	 background-color: #8c8c8c;
+	 border-radius:20px;
+	 padding: 2px 10px; 
+	 text-align:center;
+	 position:static;
+	 top:-20px;
+	 left:-20px;
+	 text-decoration:none;
+	 margin-top:20px;
+	 margin-left:4px;
+	 
+ }
+ 
+ #logo{
+	 position:static;
+	 margin-left:10px;
+	 margin-top:-15px;
+	 margin-left:-15px;
+ }
+ 
+#acc4:hover{
+	background-color: #737373;
+}
+
+#sbutton{
+	position:relative;
+	top:-10px;
+	left:-10%;
+}
+
+h5{
+	padding-left:320px;
+	padding-top:12px;
+}
+h4{
+	padding-left:330px;
+	padding-top:12px;
+}

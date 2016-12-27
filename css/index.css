@@ -1,0 +1,60 @@
+#imaginary_container{
+    margin-top:20%;
+}
+
+
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+.logo1 figure {
+   	width: 355px;
+	height: 290px;
+	overflow: hidden;
+	position:static;
+    margin-top:-426px;
+	cursor:pointer;
+}
+
+.logo1 figure img {
+	 margin-top:27px;
+	 margin-left:-3px;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.logo1 figure:hover img {
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+	opacity:0;
+}
+
+.logo2 figure {
+   	width: 350px;
+	height: 400px;
+	overflow: hidden;
+	position:static;
+    margin-top:100px;
+	cursor:pointer;
+}
+
+.logo2 figure img {
+	position:static;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.logo2 figure:hover img {
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+	opacity:0;
+}
+
+.account-wall{
+	position:relative;
+	top:100px;
+}
+
